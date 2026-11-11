@@ -1,11 +1,11 @@
 cask "bterm" do
   version "1.0.0"
-  sha256 "e4a21efa0f79bcdf4bda67e3c5a1a6486129d70ace5e81bbaa4e32a8c2f7341e"
+  sha256 "cae45ab08c3f4edcee37d737aaf65471b6fe1048fcc1ca937b883a3d324bea9f"
 
   url "https://github.com/beckettclarke/bterm/releases/download/v#{version}/bterm.zip"
   name "bterm"
   desc "Small, fast, native terminal"
-  homepage "https://beckettclarke.github.io/bterm/"
+  homepage "https://term.beckettclarke.ca/"
 
   livecheck do
     url :url
