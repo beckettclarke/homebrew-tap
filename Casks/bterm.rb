@@ -1,6 +1,6 @@
 cask "bterm" do
-  version "1.1.0"
-  sha256 "4908ccc2746b69e0e8b494cdb89ae101abda569cbea9e570741117ba088b1c8b"
+  version "1.2.0"
+  sha256 "0f82d384d60c2b89c93a9b77c5c7968246f7010e7417c64de72b83fc666b3c6d"
 
   url "https://github.com/beckettclarke/bterm/releases/download/v#{version}/bterm.zip"
   name "bterm"
